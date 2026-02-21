@@ -1,0 +1,41 @@
+{
+  "6407653048": {
+    "coins": 93755000,
+    "total_games": 68,
+    "total_wins": 11,
+    "total_wagered": 68000000,
+    "total_won": 131850000,
+    "is_vip": true,
+    "vip_until": "2026-02-22T21:07:31.805274",
+    "is_banned": false,
+    "last_daily": null,
+    "referrals": 0,
+    "created_at": "2026-02-21T21:06:24.658968"
+  },
+  "5963673317": {
+    "coins": 5000,
+    "total_games": 0,
+    "total_wins": 0,
+    "total_wagered": 0,
+    "total_won": 0,
+    "is_vip": false,
+    "vip_until": null,
+    "is_banned": false,
+    "last_daily": null,
+    "referrals": 0,
+    "created_at": "2026-02-21T21:06:32.697191"
+  },
+  "6967906091": {
+    "coins": 0,
+    "total_games": 3,
+    "total_wins": 1,
+    "total_wagered": 16000,
+    "total_won": 10000,
+    "is_vip": false,
+    "vip_until": null,
+    "is_banned": false,
+    "last_daily": "2026-02-21T21:10:28.366761",
+    "referrals": 0,
+    "created_at": "2026-02-21T21:09:56.828136"
+  }
+}
