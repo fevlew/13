@@ -94,7 +94,7 @@ def bet_menu(g):
     b.adjust(3)
     for a in [50000000, 100000000, 500000000]: b.add(IKB(text=f"🔥{a//10000000}M", callback_data=f"bet:{g}:{a}"))
     b.adjust(3)
-    for a in [500000000, 100000000, 500000000]: b.add(IKB(text=f"🔥{a//10000000}M", callback_data=f"bet:{g}:{a}"))
+    for a in [500000000, 1000000000, 5000000000]: b.add(IKB(text=f"🔥{a//100000000}M", callback_data=f"bet:{g}:{a}"))
     b.adjust(3)
     b.row(IKB(text="◀️ Назад", callback_data="menu"))
     return b.as_markup()
